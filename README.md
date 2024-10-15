@@ -63,7 +63,7 @@ Dataset Columns:
 **Installation**
 
     Step 1: Clone the repository
-        git clone https://github.com/YOUR-USERNAME/IPL-Data-Exploration.git
+        git clone https://github.com/Prameeth8817/IPL-Data-Analysis.git
         cd IPL-Data-Exploration
     
     Step 2: Install the required Python libraries
