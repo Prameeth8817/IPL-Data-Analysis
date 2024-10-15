@@ -5,7 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load dataset
-df = pd.read_csv("matches.csv")
+df = pd.read_csv("data/matches.csv")
 
 # Display first few rows of the dataset
 print(df.head())
